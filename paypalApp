@@ -1,2 +1,0 @@
-@Library('elifeshared_library') _
-elifeApp 'https://github.com/Lugards123/elifeapp'
